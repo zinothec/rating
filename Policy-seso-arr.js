@@ -11,12 +11,12 @@ a{text-decoration:none; font-size:16px; color:#00F; text-align:right;}
 <div class="separator" style="clear: both; text-align: center;">
 <a href="https://1.bp.blogspot.com/-tgHnRIcNQJo/Xpm4mkgK8PI/AAAAAAAAEss/h5S2YNOjIZQh38TggdBnX-08K6QmFXgNACLcBGAsYHQ/s1600/%25D8%25B3%25D9%258A%25D8%25A7%25D8%25B3%25D8%25A9-%25D8%25A7%25D9%2584%25D8%25AE%25D8%25B5%25D9%2588%25D8%25B5%25D9%258A%25D8%25A9.png" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="132" data-original-width="320" src="https://1.bp.blogspot.com/-tgHnRIcNQJo/Xpm4mkgK8PI/AAAAAAAAEss/h5S2YNOjIZQh38TggdBnX-08K6QmFXgNACLcBGAsYHQ/s1600/%25D8%25B3%25D9%258A%25D8%25A7%25D8%25B3%25D8%25A9-%25D8%25A7%25D9%2584%25D8%25AE%25D8%25B5%25D9%2588%25D8%25B5%25D9%258A%25D8%25A9.png" /></a></div>
 <br />
-خصوصيتك أيها الزائر لها أهمية بالغة بالنسبة لنا ، و سياسة الخصوصية الموجودة في هذه الوثيقة تمثل الخطوط العريضة لأنواع المعلومات الشخصية التي يجمعها موقع <a href="${document.querySelector('.Url'').value}" target="_blank"><u><b>${document.querySelector('.Name').value}</b></u></a> وكيفية استخدام هذه المعلومات.<br />
+خصوصيتك أيها الزائر لها أهمية بالغة بالنسبة لنا ، و سياسة الخصوصية الموجودة في هذه الوثيقة تمثل الخطوط العريضة لأنواع المعلومات الشخصية التي يجمعها موقع <a href="${document.querySelector('.Url').value}" target="_blank"><u><b>${document.querySelector('.Name').value}</b></u></a> وكيفية استخدام هذه المعلومات.<br />
 <div style="line-height: 2; text-align: justify;">
-نحن نستعين بشركات إعلان كطرف ثالث لعرض الإعلانات ، وعندما تزور موقع <a href="${document.querySelector('.Url'').value}" target="_blank"><u><b>${document.querySelector('.Name').value}</b></u></a> فـ إنه يحق لهذه الشركات أن تستخدم معلومات حول زياراتك لهذا الموقع ( باستثناء الاسم أو العنوان أو عنوان البريد الإلكتروني أو رقم الهاتف ) وذلك من أجل تقديم إعلانات حول البضائع والخدمات التي تهمك عن طريق&nbsp;<b><a href="https://support.google.com/adsense/answer/7549925">ملف تعريف الإرتباط</a></b><b>.<br /></b>
+نحن نستعين بشركات إعلان كطرف ثالث لعرض الإعلانات ، وعندما تزور موقع <a href="${document.querySelector('.Url').value}" target="_blank"><u><b>${document.querySelector('.Name').value}</b></u></a> فـ إنه يحق لهذه الشركات أن تستخدم معلومات حول زياراتك لهذا الموقع ( باستثناء الاسم أو العنوان أو عنوان البريد الإلكتروني أو رقم الهاتف ) وذلك من أجل تقديم إعلانات حول البضائع والخدمات التي تهمك عن طريق&nbsp;<b><a href="https://support.google.com/adsense/answer/7549925">ملف تعريف الإرتباط</a></b><b>.<br /></b>
 <br /></div>
 <div style="line-height: 2; text-align: justify;">
-نحن في&nbsp;<a href="${document.querySelector('.Url'').value}" target="_blank"><u><b>${document.querySelector('.Name').value}</b></u></a>&nbsp;نستخدم إعلانات Google بصفتها مورِّدًا مالياً خارجياً ، ولذلك تستخدم شركة جوجل&nbsp;<b><a href="https://support.google.com/adsense/answer/7549925">ملف تعريف الإرتباط</a></b>&nbsp;لعرض الإعلانات على موقعنا.</div>
+نحن في&nbsp;<a href="${document.querySelector('.Url').value}" target="_blank"><u><b>${document.querySelector('.Name').value}</b></u></a>&nbsp;نستخدم إعلانات Google بصفتها مورِّدًا مالياً خارجياً ، ولذلك تستخدم شركة جوجل&nbsp;<b><a href="https://support.google.com/adsense/answer/7549925">ملف تعريف الإرتباط</a></b>&nbsp;لعرض الإعلانات على موقعنا.</div>
 <div style="line-height: 2; text-align: justify;">
 <br /></div>
 <div style="line-height: 2; text-align: justify;">
@@ -31,7 +31,7 @@ a{text-decoration:none; font-size:16px; color:#00F; text-align:right;}
 <b><span style="font-size: large;">ملفات الدخول:</span></b></h4>
 </div>
 <div style="line-height: 2; text-align: justify;">
-شأنها في ذلك شأن معظم خوادم المواقع الأخرى ، ومن هنا فإن موقع&nbsp;<a href="${document.querySelector('.Url'').value}" target="_blank"><u><b>${document.querySelector('.Name').value}</b></u></a>&nbsp;يستخدم نظام ملفات الدخول ، وهذا يشمل بروتوكول الانترنت (عناوين ، نوع المتصفح ، مزود خدمة الانترنت "مقدمي خدمات الانترنت" ، &nbsp;التاريخ / الوقت ، وعدد النقرات لتحليل الاتجاهات).</div>
+شأنها في ذلك شأن معظم خوادم المواقع الأخرى ، ومن هنا فإن موقع&nbsp;<a href="${document.querySelector('.Url').value}" target="_blank"><u><b>${document.querySelector('.Name').value}</b></u></a>&nbsp;يستخدم نظام ملفات الدخول ، وهذا يشمل بروتوكول الانترنت (عناوين ، نوع المتصفح ، مزود خدمة الانترنت "مقدمي خدمات الانترنت" ، &nbsp;التاريخ / الوقت ، وعدد النقرات لتحليل الاتجاهات).</div>
 </div>
 <div>
 <div style="text-align: justify;">
@@ -58,7 +58,7 @@ a{text-decoration:none; font-size:16px; color:#00F; text-align:right;}
 </div>
 <div>
 <div style="line-height: 2; text-align: justify;">
-نضيف إلى ذلك أن بعض الشركات التي تعلن في&nbsp;<a href="${document.querySelector('.Url'').value}" target="_blank"><u><b>${document.querySelector('.Name').value}</b></u></a>&nbsp;قد تتطلع على الكوكيز وإعدادات الشبكة الخاصة بموقعنا وبكم ،&nbsp;ومن هذه الشركات مثلاً شركة <b>Google</b> وبرنامجها الإعلاني <a href="https://accounts.google.com/ServiceLogin?service=adsense&amp;rm=hide&amp;nui=15&amp;alwf=true&amp;ltmpl=adsense&amp;passive=true&amp;continue=https://www.google.com/adsense/gaiaauth2?hl%3Den_US%26subid%3Dww-en_US-et-ads%26sourceid%3Daso%26medium%3Dlink&amp;followup=https://www.google.com/adsense/gaiaauth2?hl%3Den_US%26subid%3Dww-en_US-et-ads%26sourceid%3Daso%26medium%3Dlink&amp;hl=en_US#identifier" target="_blank">Google AdSense</a> وهي شركة الإعلانات الأولى في موقعنا.</div>
+نضيف إلى ذلك أن بعض الشركات التي تعلن في&nbsp;<a href="${document.querySelector('.Url').value}" target="_blank"><u><b>${document.querySelector('.Name').value}</b></u></a>&nbsp;قد تتطلع على الكوكيز وإعدادات الشبكة الخاصة بموقعنا وبكم ،&nbsp;ومن هذه الشركات مثلاً شركة <b>Google</b> وبرنامجها الإعلاني <a href="https://accounts.google.com/ServiceLogin?service=adsense&amp;rm=hide&amp;nui=15&amp;alwf=true&amp;ltmpl=adsense&amp;passive=true&amp;continue=https://www.google.com/adsense/gaiaauth2?hl%3Den_US%26subid%3Dww-en_US-et-ads%26sourceid%3Daso%26medium%3Dlink&amp;followup=https://www.google.com/adsense/gaiaauth2?hl%3Den_US%26subid%3Dww-en_US-et-ads%26sourceid%3Daso%26medium%3Dlink&amp;hl=en_US#identifier" target="_blank">Google AdSense</a> وهي شركة الإعلانات الأولى في موقعنا.</div>
 </div>
 <div>
 <div style="text-align: justify;">
@@ -82,7 +82,7 @@ a{text-decoration:none; font-size:16px; color:#00F; text-align:right;}
 </div>
 <div>
 <div style="line-height: 2; text-align: justify;">
-وبالطبع فإن موقع&nbsp;<a href="${document.querySelector('.Url'').value}" target="_blank"><u><b>${document.querySelector('.Name').value}</b></u></a>&nbsp;لا يستطيع الوصول أو السيطرة على هذه الملفات، وحتى بعد سماحك وتفعيلك لأخذها من جهازك (الكوكيز) ، كما أننا غير مسؤولين بأي شكل من الأشكال عن الاستخدام غير الشرعي لها إن حصل ذلك .</div>
+وبالطبع فإن موقع&nbsp;<a href="${document.querySelector('.Url').value}" target="_blank"><u><b>${document.querySelector('.Name').value}</b></u></a>&nbsp;لا يستطيع الوصول أو السيطرة على هذه الملفات، وحتى بعد سماحك وتفعيلك لأخذها من جهازك (الكوكيز) ، كما أننا غير مسؤولين بأي شكل من الأشكال عن الاستخدام غير الشرعي لها إن حصل ذلك .</div>
 </div>
 <div>
 <div style="text-align: justify;">
