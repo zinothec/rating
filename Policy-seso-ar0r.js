@@ -120,7 +120,7 @@ a{text-decoration:none; font-size:16px; color:#00F; text-align:right;}
 </div>
 <div>
 <div style="line-height: 2; text-align: justify;">
-إذا كنت بحاجة إلى مزيد من المعلومات أو لديك أية أسئله عن سياسة الخصوصية ، لا تتردد في الاتصال بنا عن طريق نموذج الإتصال ، بالدخول إلى تبويب <span style="color: red;"><b><a href="${document.querySelector('.cont'').value}">اتصل بنا</a></b></span>.</div>
+إذا كنت بحاجة إلى مزيد من المعلومات أو لديك أية أسئله عن سياسة الخصوصية ، لا تتردد في الاتصال بنا عن طريق نموذج الإتصال ، بالدخول إلى تبويب <span style="color: red;"><b><a href="${document.querySelector('.cont').value}">اتصل بنا</a></b></span>.</div>
 </div>
 <div>
 <div style="text-align: justify;">
