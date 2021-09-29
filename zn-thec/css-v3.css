@@ -1082,47 +1082,7 @@ text-align: center;
     display: inline-block;
     height: auto!important;
 }
-      .profpic {
-    position: absolute;
-    top: 3px;
-    right: -25px;
-    height: 120px;
-    width: 90px;
-    border-radius: 50%;
-    background: #3d5afe;
-    display: inline-block;
-    box-shadow: 0 0.5px 2px rgb(0 0 0 / 50%), 0 0.5px 3px rgb(0 0 0 / 50%);
-}
-    .prof-sm {
-    position: absolute;
-    list-style: none;
-    padding: 0;
-    margin: 0;
-    top: 100px;
-    right: -20px;
-    width: 40px;
-}
-      .prof-sm .sm {
-    width: 40px;
-    height: 40px;
-    margin-bottom: 4px;
-    border-radius: 50%;
-    background: #f7f7f7;
-    transition: all 0.15s ease-in-out;
-    box-shadow: 0 0.5px 2px rgb(0 0 0 / 24%), 0 0.5px 3px rgb(0 0 0 / 12%);
-}
-      .prof-sm svg {
-    width: 30px;
-    height: 30px;
-    margin: 5px;
-    border-radius: 50%;
-}
-      .prof-sm a {
-    display: inline-block;
-    height: 40px;
-    width: 40px;
-    border-radius: 50%;
-}
+
       .user-desc {
     color: rgb(254 254 254);
     font-size: 11pt;
